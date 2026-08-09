@@ -3,3 +3,4 @@ Documentación, fotografías e historia, del Instituto de Selección Escolar, en
 De sus aulas han salido numerosos profesionales reconocidos de todos los ámbitos.
 
 https://instseleccionescolar.wixsite.com/seleccion-escolar
+update: forcing GitHub Pages rebuild
